@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Valentina Caicedo García</h1>
+<h1 align="center">Hi, Soy Valentina Caicedo García</h1>
 <h3 align="center">Estudiante de Ingeniería Software aprendiendo programación poco a poco</h3>
 
 - 📫 How to reach me **valencaicedo2008@gmail.com**
